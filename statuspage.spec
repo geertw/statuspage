@@ -45,7 +45,7 @@ exe = EXE(pyz,
             ),
             (
                 'template/mustache.min.js',
-                'template/milligram.min.css',
+                'template/mustache.min.js',
                 'template'
             ),
             (
